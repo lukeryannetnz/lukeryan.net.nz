@@ -105,11 +105,25 @@ body {
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 12vmin;
+    margin-bottom: 0px;
+}
+
+h3 {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4vmin;
+    margin-top: 0px;
 }
 
 .content {
     margin-left: 15%;
     margin-top: 15%;
+}
+
+.content p {
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2vmin;
 }
 
 
