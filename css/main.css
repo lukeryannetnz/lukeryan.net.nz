@@ -95,9 +95,22 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    background-image: url("../img/curbargap.jpg");
+    /*background-position: 0 0;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 104px;
+}
 
-
+.content {
+    margin-left: 150px;
+    margin-top: 150px;
+}
 
 
 
