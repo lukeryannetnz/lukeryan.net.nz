@@ -127,7 +127,8 @@ h3 {
 }
 
 .content img.social {
-    max-height: 40px;
+    max-height: 64px;
+    height: 6vmin;
     margin-right: 5px;
 }
 
