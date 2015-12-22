@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luke Ryan -- Developer -- @lukeryannetnz
 
 # THANKS
 
-    <name>
+    HTML5 boilerplate https://html5boilerplate.com
+    VS Code https://code.visualstudio.com
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    jQuery, Modernizr, Normalize.css
