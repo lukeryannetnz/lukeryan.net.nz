@@ -104,12 +104,12 @@ body {
 
 h1 {
     font-family: 'Cookie', cursive;
-    font-size: 104px;
+    font-size: 12vmin;
 }
 
 .content {
-    margin-left: 150px;
-    margin-top: 150px;
+    margin-left: 15%;
+    margin-top: 15%;
 }
 
 
