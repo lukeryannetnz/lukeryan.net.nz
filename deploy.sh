@@ -3,3 +3,5 @@
 # Requires the AWS CLI configured with AWS credentials. See https://aws.amazon.com/cli/
 
 aws s3 sync . s3://lukeryan.net.nz --region ap-southeast-2 --exclude ".git/*"
+
+aws cloudfront create-invalidation --distribution-id EFIX6HK3YSBNG --paths "/index.html" "/"
