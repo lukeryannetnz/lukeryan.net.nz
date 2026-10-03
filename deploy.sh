@@ -4,4 +4,4 @@
 
 aws s3 sync . s3://lukeryan.net.nz --region ap-southeast-2 --exclude ".git/*"
 
-aws cloudfront create-invalidation --distribution-id EFIX6HK3YSBNG --paths "/index.html" "/"
+aws cloudfront create-invalidation --distribution-id EFIX6HK3YSBNG --paths "/index.html" "/" "/styles.css" "/scripts.js" 
